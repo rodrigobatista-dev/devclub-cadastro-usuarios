@@ -19,6 +19,15 @@ O usuário pode cadastrar informações como **nome, idade e e-mail**, e os dado
 - 🗄️ Banco de dados: [MongoDB Atlas](https://www.mongodb.com/atlas) *(grátis na nuvem)*
 - 🔗 Deploy: [Render](https://render.com/) *(plano free)*
 
+- 🌍 **Deploy Online**
+
+- **Frontend**: hospedado na [Vercel](https://vercel.com/)
+- **Backend**: hospedado na [Render](https://render.com/)
+- **Banco de dados**: [MongoDB Atlas](https://www.mongodb.com/atlas)
+
+✨ **Demonstração**: [Acesse o Frontend do Projeto](https://meu-projeto-front.vercel.app)
+
+
 ---
 
 ## 📌 Funcionalidades
@@ -47,19 +56,6 @@ cd backend
 npm install
 npm start
 
-🌍 Deploy Online
-
-Frontend hospedado na Vercel
-
-Backend hospedado na Render
-
-Banco de dados na MongoDB Atlas
-
-✨ Demonstração:[Acesse o Frontend do Projeto](https://meu-projeto-front.vercel.app)
 
 
-📜 Licença
-
-Este projeto está sob a licença MIT.
-Sinta-se à vontade para usar como referência nos seus estudos!
 
