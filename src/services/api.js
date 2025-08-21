@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://aula1conceitos.onrender.com/api",
+  baseURL: "https://aula1conceitos.onrender.com/",
 });
 
 export default api;
