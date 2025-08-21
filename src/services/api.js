@@ -1,8 +1,7 @@
-//"http://localhost:3000"
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://aula1conceitos-1.onrender.com",
+  baseURL: "https://apiusers-d4ay.onrender.com",
 });
 
 export default api;
